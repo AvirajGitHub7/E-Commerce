@@ -1,2 +1,2 @@
-#E-Commerce-Website
+# E-Commerce-Website
 This is a modern and interactive E-Commerce website built using HTML, CSS, and JavaScript. It allows users to browse products, view detailed pages, add items to the cart, and manage their cart with real-time updates. The project uses localStorage to retain cart data and provides a smooth UI across multiple pages like home, shop, single product view, and cart. This project was created as part of a learning journey to understand frontend development and real-world shopping site functionality.
