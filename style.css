@@ -645,7 +645,7 @@ footer .copyright {
 /*Shop.html */
 
 .page_header{
-    background-image: url("/images/b1.jpg");
+    background-image: url("images/b1.jpg");
     gap:10px;
     color: white;
     font-size:25px;
@@ -762,7 +762,7 @@ footer .copyright {
 /* blog.html */
 
 .blog-header{
-    background-image: url(/images/b19.jpg);
+    background-image: url(images/b19.jpg);
 }
 .blog-pagination{
     margin-top: 40px;
